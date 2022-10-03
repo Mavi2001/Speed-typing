@@ -24,7 +24,7 @@ function load_more_words()
 	xmlhttp.open("GET","words.txt",true);
 	xmlhttp.send();
 }
-
+//hello there
 // Globals
 
 // Available Levels
